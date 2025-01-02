@@ -39,6 +39,17 @@ This project is a real-time exercise tracking system that uses YOLO (You Only Lo
   4. Saved the trained YOLO model as `handsv2.pt` for integration into the application.
 
 ---
+## Demo Images
+
+### Example Image 1:
+![Demo Image 1](Demo_1.png)
+
+### Example Image 2:
+![Demo Image 2](Demo_2.png)
+
+### Example Image 3:
+![Demo Image 3](Demo_3.png)
+
 
 ## Requirements
 
