@@ -14,7 +14,6 @@ This project is a real-time exercise tracking system that uses YOLO (You Only Lo
 - Built using **PyQt5**, offering an intuitive interface for users to:
   - Load video files (`.svo2`) or connect to a live camera.
   - View exercise-specific data such as repetitions, speed, and distances.
-  - Switch between exercises (`深蹲` or `臥推`).
   - View tracking history and overall statistics.
 
 ### Predictive Tracking:
