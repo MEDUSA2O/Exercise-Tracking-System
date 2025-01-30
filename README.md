@@ -1,4 +1,4 @@
-# AI-Powered Motion Tracking Syste
+# AI-Powered Motion Tracking System
 This project is a real-time exercise tracking system that uses YOLO (You Only Look Once) for object detection, the ZED Camera SDK for depth perception, and a PyQt5-based graphical user interface (GUI) for interaction. It is specifically designed to track and analyze exercises such as squats and bench presses, providing users with feedback on movements, repetitions, speed, and other metrics.
 
 ## Features
